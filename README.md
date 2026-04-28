@@ -29,20 +29,24 @@ This is my Multiple Disease Prediction project. I made this to predict diseases 
 
 ## Screenshot
 
+
+## Screenshot
+
 ### Login/Signup page
-https://github.com/Nikitaaguptaa/Multiple-disease-prediction/blob/main/loginsignup.png
+![Login](https://raw.githubusercontent.com/Nikitaaguptaa/Multiple-disease-prediction/main/loginsignup.png)
 
-### multiple disease menu
-https://github.com/Nikitaaguptaa/Multiple-disease-prediction/blob/main/Diasease%20menu.png
+### Multiple disease menu
+![Menu](https://raw.githubusercontent.com/Nikitaaguptaa/Multiple-disease-prediction/main/Diasease%20menu.png)
 
-### Diabetes pridiction ui
-https://github.com/Nikitaaguptaa/Multiple-disease-prediction/blob/main/Diasease%20menu.png
+### Diabetes prediction UI
+![Diabetes](https://raw.githubusercontent.com/Nikitaaguptaa/Multiple-disease-prediction/main/Diasease%20menu.png)
 
-### Heart disease pridiction ui
-https://github.com/Nikitaaguptaa/Multiple-disease-prediction/blob/main/Heart%20disease.png
+### Heart disease prediction UI
+![Heart](https://raw.githubusercontent.com/Nikitaaguptaa/Multiple-disease-prediction/main/Heart%20disease.png)
 
-### Parkinsons pridiction ui
-https://github.com/Nikitaaguptaa/Multiple-disease-prediction/blob/main/parkinsons.png
+### Parkinson’s prediction UI
+![Parkinsons](https://raw.githubusercontent.com/Nikitaaguptaa/Multiple-disease-prediction/main/parkinsons.png)
+
 
 
 ## How to run
